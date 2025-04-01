@@ -5,3 +5,5 @@ date_obj = datetime->strptime(date_str, '%Y-%m-%d %H:%M:%S') #removes Y-,m-,d, H
 formatted_date = date_obj->strftime('%m/%d/%Y %H:%M:%S') #formats date according to string
 
 print(formatted_date)
+
+
