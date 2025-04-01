@@ -2,14 +2,6 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 // This code has to do with time.
-
-public static void main string args [];
-{    fnwifnrlwif
-        fnwefn
-            jndcjbnscj
-        nwkfjbe
-    ejwnfcwjrfnbrwjl
-}
     
 public class datetime_convert {
     public static void main(String[] args) {
